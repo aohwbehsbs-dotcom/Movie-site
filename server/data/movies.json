@@ -1,11 +1,47 @@
 [
   {
-    "id": "sample-movie",
-    "title": "Sample Movie",
+    "id": "movie-1",
+    "title": "Movie 1",
+    "year": 2021,
+    "description": "Description for movie 1.",
+    "poster": "/public/media/posters/IMG_20211129_070406.jpg",
+    "streamUrl": "/public/media/movies/movie1.mp4",
+    "subtitleUrl": null
+  },
+  {
+    "id": "movie-2",
+    "title": "Movie 2",
+    "year": 2022,
+    "description": "Description for movie 2.",
+    "poster": "/public/media/posters/IMG_20220326_212821.jpg",
+    "streamUrl": "/public/media/movies/movie2.mp4",
+    "subtitleUrl": null
+  },
+  {
+    "id": "movie-3",
+    "title": "Movie 3",
+    "year": 2023,
+    "description": "Description for movie 3.",
+    "poster": "/public/media/posters/IMG_20230816_191501.jpg",
+    "streamUrl": "/public/media/movies/movie3.mp4",
+    "subtitleUrl": null
+  },
+  {
+    "id": "movie-4",
+    "title": "Movie 4",
     "year": 2024,
-    "description": "Replace with your own movie.",
-    "poster": "/posters/sample.jpg",
-    "streamUrl": "/media/sample-movie/index.m3u8",
+    "description": "Description for movie 4.",
+    "poster": "/public/media/posters/Screenshot_2024-02-21-19-56-35-786_com.whatsapp.jpg",
+    "streamUrl": "/public/media/movies/movie4.mp4",
+    "subtitleUrl": null
+  },
+  {
+    "id": "movie-5",
+    "title": "Movie 5",
+    "year": 2025,
+    "description": "Description for movie 5.",
+    "poster": "/public/media/posters/Screenshot_2025-11-16-18-35-25-599_com.android.chrome.jpg",
+    "streamUrl": "/public/media/movies/movie5.mp4",
     "subtitleUrl": null
   }
 ]
