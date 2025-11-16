@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sample-movie",
+    "title": "Sample Movie",
+    "year": 2024,
+    "description": "Replace with your own movie.",
+    "poster": "/posters/sample.jpg",
+    "streamUrl": "/media/sample-movie/index.m3u8",
+    "subtitleUrl": null
+  }
+]
