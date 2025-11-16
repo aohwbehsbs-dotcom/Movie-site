@@ -1,0 +1,11 @@
+{
+  "name": "movie-site-glitch",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
